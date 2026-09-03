@@ -1,1 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    text-align: center;
+    background: #f4f4f4;
+}
 
+header {
+    padding: 40px;
+    background: #222;
+    color: white;
+}
+
+main {
+    padding: 50px;
+}
+
+section {
+    background: white;
+    padding: 30px;
+    max-width: 800px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.pipeline {
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.pipeline span {
+    margin: 5px;
+}
+
+footer {
+    margin-top: 50px;
+}
